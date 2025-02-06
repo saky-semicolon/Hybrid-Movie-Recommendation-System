@@ -78,5 +78,4 @@ The models were trained on **TMDB 5000 Movies Dataset** and **TMDB 5000 Credits 
 ## Contributors
 - **S M Asiful Islam Saky** (Developer & Researcher)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Thank you!
