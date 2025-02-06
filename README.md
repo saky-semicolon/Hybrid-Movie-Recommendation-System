@@ -67,7 +67,7 @@ The models were trained on **TMDB 5000 Movies Dataset** and **TMDB 5000 Credits 
    ```
 3. Run the training script:
    ```sh
-   python train.py
+   python recommend.py
    ```
 
 ## Future Enhancements
